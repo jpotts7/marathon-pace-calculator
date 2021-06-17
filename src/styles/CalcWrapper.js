@@ -4,8 +4,7 @@ const CalcWrapper = styled.div`
   position: relative;
   margin: 200px auto;
   padding: 10px 0 30px 0;
-  max-height: 50%;
-  max-width: 50%;
+  max-width: 500px;
   background-color: lightblue;
   border: 5px double navy;
   border-radius: 20px;
